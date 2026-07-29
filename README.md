@@ -7,7 +7,6 @@ Education: B.E Electrical and Electronics Engineering
 
 Currently Focus: 
 
--Artificial Intellgence
 - Java Full Stack Development 
 - Data Structures & Algorithms
 - Backend Development 
