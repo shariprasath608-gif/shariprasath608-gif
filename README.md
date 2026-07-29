@@ -9,7 +9,8 @@ Currently Focus:
 
 - Java Full Stack Development 
 - Data Structures & Algorithms
-- Backend Development 
+- Backend Development
+- Generative AI
 
 Goal:
 - Become a Product Based Company Developer
