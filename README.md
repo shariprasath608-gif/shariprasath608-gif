@@ -30,11 +30,63 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/hari-prasath-s-7937b6344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-prasath-s-7937b6344" height="30" width="40" /></a>
-<a href="https://instagram.com/silence_heart_2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silence_heart_2k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/titan_206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="titan_206" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sharipraa9eh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharipraa9eh" height="30" width="40" /></a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hari-prasath-s-7937b6344/"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Hari Prasath LinkedIn"
+      height="30"
+      width="40"
+      align="center"
+    />
+  </a> <!-- Gmail -->
+  <a href="mailto:shariprasth608@gmail.com">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      alt="Email Hari Prasath"
+      height="30"
+      width="40"
+      align="center"
+    />
+  </a><!-- Instagram -->
+  <a href="https://www.instagram.com/silence_heart_2k/"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Hari Prasath Instagram"
+      height="30"
+      width="40"
+      align="center"
+    />
+  </a><!-- LeetCode -->
+  <a href="https://leetcode.com/u/titan_206/"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="Hari Prasath LeetCode"
+      height="30"
+      width="40"
+      align="center"
+    />
+  </a> <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/sharipraa9eh"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+      alt="Hari Prasath GeeksforGeeks"
+      height="30"
+      width="40"
+      align="center"
+    />
+  </a>
 </p>
 
 ---
