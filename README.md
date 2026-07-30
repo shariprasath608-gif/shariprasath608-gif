@@ -2,6 +2,11 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Java+Full+Stack+Developer+in+Progress+☕;Building+Real+World+Applications+🚀;DSA+%7C+Web+Development+%7C+AI+Explorer" /> </p> <p align="center">   </p>
 
 ---
+HI, I'm just learning **Hareesh Rajendran** and *customizing* a GitHub profile.
+
+[Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
+
+---
 
 ## 👨‍💻 About Me
 
@@ -29,7 +34,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+#### Connect with me
 
 <p align="left">
 
@@ -91,7 +96,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ---
