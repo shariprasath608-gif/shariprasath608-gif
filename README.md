@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Hari Prasath </h1> 
+<h1 align="center"> 🌟HI! I'm Hari Prasath🌟</h1> 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Java+Full+Stack+Developer+in+Progress+☕;Building+Real+World+Applications+🚀;DSA+%7C+Web+Development+%7C+AI+Explorer" /> </p> <p align="center">   </p>
 
 ---
@@ -97,15 +97,9 @@
 ---
 
  <div align="center">
-  <h2>🐍 My Contribution Graph 🐍</h2>
+  <h2>👾 My Contribution Graph 👾 </h2>
   
-  <!-- Snake Animation with Dark/Light mode support -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shariprasath608-gif/shariprasath608-gif/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shariprasath608-gif/shariprasath608-gif/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shariprasath608-gif/shariprasath608-gif/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+ [![Ashutosh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariprasath608-gif&bg_color=000000&color=94b8b2&line=df20b6&point=9a18c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -114,11 +108,7 @@
   <br/>
   
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shariprasath608-gif&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Shariprasath's Readme Stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariprasath608-gif&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Shariprasath's Streak Stats"/>
   </p>
   
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariprasath608-gif&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  </p>
 </div>
