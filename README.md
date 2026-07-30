@@ -4,7 +4,7 @@
 ---
 HI, I'm just learning **Hareesh Rajendran** and *customizing* a GitHub profile.
 
-[Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
+Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
 
 ---
 
