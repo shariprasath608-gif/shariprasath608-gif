@@ -16,9 +16,11 @@ Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
 
 ▽⁠ Passionate about web development and AI
 
-▽⁠ Goal: Get placed in a Product-Based Company
-
 ▽⁠ Practicing DSA using Java
+
+▽⁠ Goal:  Get placed in a Product-Based Company
+
+▽⁠ Quote:  Still debugging my life
 
 ---
 
