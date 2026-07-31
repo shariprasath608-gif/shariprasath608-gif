@@ -22,7 +22,7 @@ Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
 
 ---
 
-### 🔹 Java Full Stack Projects
+### 🔹Projects
 
 ☆ Web Page Resume
 
