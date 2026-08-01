@@ -30,8 +30,6 @@ Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
 
 ☆ Bank Management System
 
-☆ Temperature Convertor
-
 ☆ Simulink Assignment
 
 ---
@@ -114,8 +112,6 @@ Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
   <h2>⚡ GitHub Stats & Streaks ⚡</h2>
   <br/>
   
-  <p align="center">
-    <img width="48%" src="https://github.com/shariprasath608-gif/emc2/blob/main/fire_flame.png/?user=shariprasath608-gif&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Shariprasath's Streak Stats"/>
-  </p>
-  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shariprasath608-gif&theme=shadow-purple)](https://git.io/streak-stats)
+
 </div>
