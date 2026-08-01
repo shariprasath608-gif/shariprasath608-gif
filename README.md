@@ -2,9 +2,9 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Java+Full+Stack+Developer+in+Progress+☕;Building+Real+World+Applications+🚀;DSA+%7C+Web+Development+%7C+AI+Explorer" /> </p> <p align="center">   </p>
 
 ---
-HI, I'm just learning **Hareesh Rajendran** and *customizing* a GitHub profile.
+>HI, I'm just learning **Hareesh Rajendran** and *customizing* a GitHub profile.
 
-Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
+>Check out [Resource Link](https://youtu.be/cPVxMGgl0rQ?si=PNm2gauVSfxEbImr)
 
 ---
 
