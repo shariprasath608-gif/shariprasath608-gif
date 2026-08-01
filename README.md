@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/github-arise-banner-1280x320.jpg"
+    alt="ARISE Banner"
+    width="100%"
+  />
+</p>
+
 <h1 align="center"> 🌟HI! I'm Hari Prasath🌟</h1> 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Java+Full+Stack+Developer+in+Progress+☕;Building+Real+World+Applications+🚀;DSA+%7C+Web+Development+%7C+AI+Explorer" /> </p> <p align="center">   </p>
 
